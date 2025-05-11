@@ -1,7 +1,7 @@
 <img align="center" height="" width="1280" src="https://i.pinimg.com/736x/d1/4b/d1/d14bd16cdff5878ea269edb5cf963d04.jpg" target="_blank" rel="noopener noreferrer"> <br/>
 
 # 💫 About Me:
-Hi, call me bri! A web dev enthusiast. Check my portfolio [here!](https://niaueow.me/)
+Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.me/)
 <img align="right" height="80" src="https://i.pinimg.com/originals/a1/23/9b/a1239b7fb729c7b1007e30dcc7ec4cbd.gif"  /> <br/>
 
 
@@ -20,8 +20,7 @@ Hi, call me bri! A web dev enthusiast. Check my portfolio [here!](https://niaueo
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=niaueow&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[](https://github-readme-stats.vercel.app/api?username=niaueow&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [](https://nirzak-streak-stats.vercel.app/?user=niaueow&theme=blue_navy&hide_border=false)<br/>
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=niaueow&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
