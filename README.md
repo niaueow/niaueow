@@ -1,7 +1,7 @@
 <img align="center" height="" width="1280" src="https://i.pinimg.com/736x/d1/4b/d1/d14bd16cdff5878ea269edb5cf963d04.jpg" target="_blank" rel="noopener noreferrer"> <br/>
 
 # 💫 About Me:
-Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](niaueow.is-a.dev)
+Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
 <img align="right" height="80" src="https://i.pinimg.com/originals/a1/23/9b/a1239b7fb729c7b1007e30dcc7ec4cbd.gif"  /> <br/>
 
 
