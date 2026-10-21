@@ -1,12 +1,4 @@
-
-<p align="center">
-  <img
-    src="https://i.pinimg.com/originals/38/16/e8/3816e82ff6993aa9407a99281ed68ac1.gif"
-    width="1280"
-    alt="Animated GIF"
-  />
-</p>
- <br/>
+<img align="center" height="" width="1280" src="https://i.pinimg.com/originals/b0/64/22/b06422b2db4195111886f584bf508eaf.gif" target="_blank" rel="noopener noreferrer"> <br/>
 
 # 💫 About Me:
 Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
