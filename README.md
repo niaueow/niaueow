@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
-<img align="right" height="80" src="https://www.pngall.com/wp-content/uploads/14/Moon-Knight.gif"  /> <br/>
+<img align="right" height="90" src="https://media.giphy.com/media/iyBV453dnf8X0k4kOH/giphy.gif"  /> <br/>
 
 
 # 💻 Tech Stack:
