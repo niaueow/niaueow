@@ -1,8 +1,8 @@
-<img align="center" height="" width="" src="https://i.pinimg.com/originals/b0/64/22/b06422b2db4195111886f584bf508eaf.gif" target="_blank" rel="noopener noreferrer" > <br/>
+<img align="center" src="https://i.pinimg.com/originals/b0/64/22/b06422b2db4195111886f584bf508eaf.gif" target="_blank" rel="noopener noreferrer" > <br/>
 
 # 💫 About Me:
 Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
-<img align="right" height="90" src="https://media.giphy.com/media/iyBV453dnf8X0k4kOH/giphy.gif"  /> <br/>
+<img align="right" height="90" width="90" src="https://media.giphy.com/media/iyBV453dnf8X0k4kOH/giphy.gif"  /> <br/>
 
 
 # 💻 Tech Stack:
