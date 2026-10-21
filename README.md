@@ -10,6 +10,7 @@ Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow
 
 ### 
 # 💬 Social Media:
+<img align="right" height="80" src="https://i.pinimg.com/originals/a1/23/9b/a1239b7fb729c7b1007e30dcc7ec4cbd.gif](https://i.pinimg.com/736x/a6/bc/37/a6bc376eef6e375ad79854d1b1fb624d.jpg"  /> <br/>
 <div align="left">
   <a href="https://www.instagram.com/shabrinaniaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
