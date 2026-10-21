@@ -1,8 +1,8 @@
-<img align="center" height="" width="1280" src="https://www.pngall.com/wp-content/uploads/14/Moon-Knight.gif" target="_blank" rel="noopener noreferrer"> <br/>
+<img align="center" height="" width="1280" src="https://i.pinimg.com/736x/cd/2c/50/cd2c504b7ee871c0cabe7617027811dc.jpg" target="_blank" rel="noopener noreferrer"> <br/>
 
 # 💫 About Me:
 Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
-<img align="right" height="80" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaXJsenN5ZWJ0ZDlqMW52NTEwcmFkMGNmcTNodW5vMHY4a3pvc2ZzeiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/d73UiefPS6aEWO6G3Y/200w.gif"  /> <br/>
+<img align="right" height="80" src="https://www.pngall.com/wp-content/uploads/14/Moon-Knight.gif"  /> <br/>
 
 
 # 💻 Tech Stack:
