@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
-<img align="right" height="90" width="90" src="https://ibb.co.com/G47wFSfJ"  /> <br/>
+<img align="right" height="90" width="90" src="https://i.ibb.co.com/G47wFSfJ/khonshu-nobg.png"  /> <br/>
 
 
 # 💻 Tech Stack:
