@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://i.pinimg.com/736x/67/12/a2/6712a20a3cc3406bdaf7591979483497.jpg" target="_blank" rel="noopener noreferrer" > <br/>
+<img align="center" width="100%" src="https://i.pinimg.com/1200x/c8/63/46/c86346d63e5b92ae3653195e3b2656c2.jpg" target="_blank" rel="noopener noreferrer" > <br/>
 
 # 💫 About Me:
 Hi, call me ni! A web dev enthusiast. Check my portfolio [here!](https://niaueow.is-a.dev/)
